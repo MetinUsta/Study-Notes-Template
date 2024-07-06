@@ -23,6 +23,10 @@ I actually prefer taking notes using LaTeX, but sometimes it's just overwhelming
 
 [Click](https://github.com/MetinUsta/Study-Notes-Template/tree/main/docs)
 
+## Github Pages
+
+[Click](https://metinusta.github.io/Study-Notes-Template/)
+
 ## Getting Started
 
 1. Clone this repository or download the ZIP file.
@@ -42,3 +46,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is open source and available under the [MIT License](https://github.com/MetinUsta/StudyNotes/blob/main/LICENSE).
+
+## Disclaimer
+
+My knowledge of HTML/CSS is limited. I used Claude 3.5 Sonnet heavily to generate the code. If you see any issues or have suggestions, please let me know.
