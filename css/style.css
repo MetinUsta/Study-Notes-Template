@@ -115,7 +115,6 @@ body {
     min-height: 100vh;
     padding: var(--page-margin);
     background-color: white;
-    /* box-shadow: var(--shadow-medium); */
     border: var(--border-width) solid var(--dark-gray);
 }
 
@@ -135,8 +134,6 @@ h5,
 h6 {
     font-family: var(--font-heading);
 }
-
-/* Add more global styles as needed */
 
 .panel {
     border: var(--border-width) solid var(--dark-gray);
@@ -223,15 +220,6 @@ h6 {
     flex-direction: row;
 }
 
-/* Two by two grid */
-/* .layout-2x2 {
-    flex-wrap: wrap;
-}
-
-.layout-2x2>* {
-    flex-basis: calc(50% - var(--spacing-medium) / 2);
-} */
-
 .layout-2x2 {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -275,7 +263,6 @@ h6 {
     height: auto;
 }
 
-/* Make sure images don't exceed their parent container */
 .layout img {
     max-width: 100%;
     height: auto;
@@ -292,10 +279,6 @@ h6 {
     }
 }
 
-/* .media-wrapper {
-    margin: var(--spacing-tiny) 0;
-} */
-
 .media-wrapper-border {
     border: var(--border-width) solid var(--dark-gray);
     border-radius: var(--border-radius);
@@ -306,19 +289,6 @@ h6 {
     font-weight: bold;
     margin-bottom: var(--spacing-small);
 }
-
-/* .media-content {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-} */
-
-/* .media-content img,
-.media-content video,
-.media-content svg {
-    max-width: 100%;
-    height: auto;
-} */
 
 .media-wrapper {
     display: flex;
