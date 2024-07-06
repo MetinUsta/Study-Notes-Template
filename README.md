@@ -45,7 +45,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is open source and available under the [MIT License](https://github.com/MetinUsta/StudyNotes/blob/main/LICENSE).
+This project is open source and available under the [MIT License](https://github.com/MetinUsta/Study-Notes-Template/blob/main/LICENSE).
 
 ## Disclaimer
 
