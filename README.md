@@ -21,7 +21,7 @@ I actually prefer taking notes using LaTeX, but sometimes it's just overwhelming
 
 ## Screenshots
 
-[Click](https://github.com/MetinUsta/StudyNotes/tree/main/docs)
+[Click](https://github.com/MetinUsta/Study-Notes-Template/tree/main/docs)
 
 ## Getting Started
 
